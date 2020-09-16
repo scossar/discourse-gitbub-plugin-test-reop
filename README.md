@@ -1,1 +1,1 @@
-# discourse-gitbub-plugin-test-reop
+# discourse-gihub-plugin-test-repo
